@@ -2,7 +2,6 @@ import { Route, Routes } from "react-router-dom"
 import { HeroresRoutes } from "../heroes"
 
 import { LoginPage } from "../auth"
-import { Navbar } from "../ui"
 import { PrivateRoute } from "./PrivateRoute"
 import { PublicRoute } from "./PublicRoute"
 
